@@ -6,6 +6,27 @@ The main motive behind making this <b>Cafeteria App</b> was to get rid out of st
 
 The thought of making this app came into my mind when i visited my sister's company where she works and i saw huge crowd of employees seeking for a Coffee from the companies Canteen, so this App can be useful for the companies and Organization so that employees can save their time not being in the queue.
 
+## App Snapshots
+
+<center>
+
+- <b>Home </b>
+<code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/home.png"></code> 
+<br/>
+
+- <b>Update Coffee Setting </b>
+<code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/update_coffee_setting.png"></code> 
+<br/>
+
+- <b>Login </b>
+<code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/login.png"></code> 
+<br/>
+
+- <b>Register </b>
+<code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/register.png"></code> 
+<br/>
+</center>
+
 
 ## Flutter Package Dependencies are used Requirement
  
