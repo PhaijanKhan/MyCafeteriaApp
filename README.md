@@ -10,19 +10,19 @@ The thought of making this app came into my mind when i visited my sister's comp
 
 <center>
 
-- <b>Home </b>
+- <b>Home </b><br/>
 <code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/home.png"></code> 
 <br/>
 
-- <b>Update Coffee Setting </b>
+- <b>Update Coffee Setting </b><br/>
 <code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/update_coffee_setting.png"></code> 
 <br/>
 
-- <b>Login </b>
+- <b>Login </b><br/>
 <code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/login.png"></code> 
 <br/>
 
-- <b>Register </b>
+- <b>Register </b><br/>
 <code><img height="480" src="https://raw.githubusercontent.com/PhaijanKhan/MyCafeteriaApp/master/snapshots/register.png"></code> 
 <br/>
 </center>
